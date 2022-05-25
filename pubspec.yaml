@@ -78,6 +78,15 @@ flutter:
     fonts:
     - asset: fonts/WaterBrush-Regular.ttf
 
+  - family: PressStart2P
+    fonts:
+    - asset: fonts/PressStart2P-Regular.ttf
+
+  - family: Shojumaru
+    fonts:
+    - asset: fonts/Shojumaru-Regular.ttf
+
+
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
