@@ -1,17 +1,5 @@
-# untitled32
+A simple business card designed with Flutter
 
-A new Flutter project.
+![Yeni Proje (1)](https://user-images.githubusercontent.com/59291488/170316499-f948ecaa-e703-4c34-87b2-be40b5fb097f.jpg)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-![Yeni Proje](https://user-images.githubusercontent.com/59291488/170081274-bb8fde38-1825-455d-9ee3-af670e904c1b.jpg)
